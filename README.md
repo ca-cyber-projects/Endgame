@@ -14,7 +14,7 @@ Create my own custom setup from the ground up
 5. Storage - Samsung 970 EVO Plus SSD 1TB M.2 NVMe Interface PCIe 3.0 x4
 6. Video Card - PowerColor Fighter Radeon RX 6600 8 GB Video Card 
 7. Case - Thermaltake View 270 ATX Mid Tower Case
-8. Power supply - 
+8. Power supply - ThermalTake Smart 80PLUS (600W)
 9. OS - Windows 11
 
 ## Peripherals
